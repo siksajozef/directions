@@ -1,0 +1,36 @@
+p{
+  text-align: center;
+  font-weight: bold;
+  margin: 0px;
+  width: 300px;
+  font-family: 'Baloo Thambi 2';
+  font-size: 24px;
+  color: white;
+}
+.red{
+  background : #E67676;
+  padding: 50px;
+  border-top: 5px solid #4285f4;
+  border-left: 5px solid #4285f4;
+  border-right: 5px solid #4285f4;
+ 
+}
+.yellow{
+  background: #F2F062;
+  padding: 50px;
+  border-left: 5px solid #4285f4;
+  border-right: 5px solid #4285f4;
+}
+.green{
+  background: #A9E6E6;
+  padding: 50px;
+  border-left: 5px solid #4285f4;
+  border-right: 5px solid #4285f4;
+}
+.blue{
+  background: #7692E4;
+  padding: 50px;
+  border-bottom: 5px solid #4285f4;
+  border-left: 5px solid #4285f4;
+  border-right: 5px solid #4285f4;
+}
